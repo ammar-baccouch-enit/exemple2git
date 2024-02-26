@@ -1,0 +1,6 @@
+this is a test
+B
+A
+B
+
+s is the first file  
